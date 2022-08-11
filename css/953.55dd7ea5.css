@@ -1,0 +1,1 @@
+@keyframes anim_blink{0%{color:blue}50%{color:#0000}to{color:blue}}.blink{animation-delay:1s;animation-duration:1.5s;animation-iteration-count:infinite;animation-name:anim_blink;animation-timing-function:ease-in-out}
