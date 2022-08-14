@@ -1,0 +1,1 @@
+.disabled{opacity:.2;pointer-events:none}h1,h2,h3,h4,h5,h6{line-height:normal}h1{font-size:2rem}h2{font-size:1.3rem}@keyframes anim_blink{0%{color:blue}50%{color:#0000}to{color:blue}}.blink{animation-delay:1s;animation-duration:1.5s;animation-iteration-count:infinite;animation-name:anim_blink;animation-timing-function:ease-in-out}
